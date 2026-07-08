@@ -11,11 +11,11 @@ updated: 2026-04-20
   📖 <a href="README.md">English</a> · <a href="README.vi.md">Tiếng Việt</a> · 简体中文
 </p>
 
-> 🇨🇳 **先说清楚：** 这个 README 是简体中文，但 wiki 里的 52 篇内容页是**越南语**写的（对照 ISO 19650 英文原文）。本 README 让你先判断 scope 合不合用，再决定要不要读下去。
-
 ---
 
 # bim-wiki
+
+> **注意：** 这是公开知识库 [bim-wiki](https://github.com/bimwright/bim-wiki)（CC-BY-SA 4.0）的**暂存（staging）**仓库。这里的内容在发布到公开仓库之前先在这里准备。
 
 我一开始写这些 note 是给自己看的。每次写 BEP，都要把 ISO 19650 跟 4 个越南总理决定（QĐ 347、QĐ 348、QĐ 1057、QĐ 2500）交叉对照，才能搞清楚某个术语到底对应项目里的哪一个概念 — 然后合上电脑的那一刻，mapping 就又忘光了。
 
@@ -31,8 +31,6 @@ updated: 2026-04-20
 - 按 QĐ 348 模板写 BEP / pre-BEP 的协调员。
 - 总记不住哪个术语对应哪个概念的学生和工程师（LOIN vs LOD、PIM vs AIM、federation vs aggregation、CDE states vs revision states）。
 - 需要 BIM 领域 grounding 的 AI agent — 所有页都写成"人和 LLM 都能读"的样子。
-
-**内容页的语言：** 越南语写的。如果你不读越南语，可以把具体页扔进 Claude / DeepL / GPT 之类的翻译成中文或英文读 — 越南语和 ISO 19650 英文术语之间的 mapping 就是这个 wiki 的核心贡献。
 
 ## 里面都有什么
 
@@ -73,7 +71,7 @@ updated: 2026-04-20
 ---
 
 属于 [bimwright](https://github.com/bimwright) 家族 —
-[rvt-mcp](https://github.com/bimwright/rvt-mcp)（Revit ↔ LLM 桥）· bim-wiki（这个仓）· 还有更多在炉上。
+[rvt-mcp](https://github.com/bimwright/rvt-mcp) · [dwg-mcp](https://github.com/bimwright/dwg-mcp) · [nwd-mcp](https://github.com/bimwright/nwd-mcp) · [ipt-mcp](https://github.com/bimwright/ipt-mcp) · bim-wiki（这个仓）。
 
 ---
 

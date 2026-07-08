@@ -15,6 +15,8 @@ updated: 2026-04-20
 
 # bim-wiki
 
+> **Note:** This is the **staging** repository for the public [bim-wiki](https://github.com/bimwright/bim-wiki) knowledge base (CC-BY-SA 4.0). Content here is prepared before being published to the public repo.
+
 I started writing these notes for myself. Every BEP meant cross-referencing ISO 19650 against four Vietnamese circulars (QĐ 347, QĐ 348, QĐ 1057, QĐ 2500) to figure out which term actually applied to the project in front of me — and every time I closed the laptop, I forgot the mapping.
 
 This is that mapping, written down.
@@ -69,7 +71,7 @@ Open an issue for a new page or a correction. For pull requests — see [`NOTICE
 ---
 
 Part of the [bimwright](https://github.com/bimwright) family —
-[rvt-mcp](https://github.com/bimwright/rvt-mcp) (Revit ↔ LLM bridge) · bim-wiki (this repo) · more on the forge.
+[rvt-mcp](https://github.com/bimwright/rvt-mcp) · [dwg-mcp](https://github.com/bimwright/dwg-mcp) · [nwd-mcp](https://github.com/bimwright/nwd-mcp) · [ipt-mcp](https://github.com/bimwright/ipt-mcp) · bim-wiki (this repo).
 
 ---
 

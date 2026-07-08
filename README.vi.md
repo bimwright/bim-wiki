@@ -15,6 +15,8 @@ updated: 2026-04-20
 
 # bim-wiki
 
+> **Lưu ý:** Đây là repo **staging** cho kho tri thức [bim-wiki](https://github.com/bimwright/bim-wiki) công khai (CC-BY-SA 4.0). Nội dung ở đây được chuẩn bị trước khi được đăng lên repo công khai.
+
 Mình bắt đầu viết mấy cái note này cho chính mình. Mỗi lần viết BEP là một lần phải tra chéo ISO 19650 với 4 quyết định (QĐ 347, QĐ 348, QĐ 1057, QĐ 2500) để hiểu thuật ngữ nào đang thực sự áp dụng cho dự án — và lần nào đóng máy xong là lần đó quên sạch mapping.
 
 Cái repo này là cái mapping đó, được viết ra.
@@ -69,7 +71,7 @@ Mở issue để đề xuất trang mới hoặc báo lỗi. Với pull request 
 ---
 
 Thuộc family [bimwright](https://github.com/bimwright) —
-[rvt-mcp](https://github.com/bimwright/rvt-mcp) (cầu nối Revit ↔ LLM) · bim-wiki (repo này) · còn nữa trên forge.
+[rvt-mcp](https://github.com/bimwright/rvt-mcp) · [dwg-mcp](https://github.com/bimwright/dwg-mcp) · [nwd-mcp](https://github.com/bimwright/nwd-mcp) · [ipt-mcp](https://github.com/bimwright/ipt-mcp) · bim-wiki (repo này).
 
 ---
 
