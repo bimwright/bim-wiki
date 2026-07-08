@@ -8,7 +8,7 @@ updated: 2026-04-20
 </p>
 
 <p align="center">
-  📖 <a href="README.md">English</a> · <a href="README.vi.md">Tiếng Việt</a> · 简体中文
+  📖 <a href="README.md">English</a> · <a href="README.vi.md">Tiếng Việt</a> · 简体中文 · <a href="README.ja.md">日本語</a>
 </p>
 
 ---
