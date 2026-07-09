@@ -35,7 +35,7 @@ updated: 2026-04-20
 ## 内容
 
 - **`summary_*.md`** — ソース文書（各ISO 19650パート、各ベトナム通達）の章レベルの要約
-- **概念ページ** — `cde.md`、`eir.md`、`pim.md`、`loin.md`、`bep.md`、`lod-vn.md`、および約30以上。各ページ1トピック、相互リンク
+- **概念ページ** — `cde.md`、`eir.md`、`pim.md`、`loin.md`、`bep.md`、`lod-vn.md`、および他約13ページ。各ページ1トピック、相互リンク
 - **ベトナム固有の差異** — `lod-vn.md`、`bim-applicability-matrix-vn.md`、`bep-template-qd348-variants.md`：ベトナムの実務がISOと異なる点とその理由
 - **`iso-19650.md`** — シリーズの親ページ
 - **`index.md`** — マスターカタログ

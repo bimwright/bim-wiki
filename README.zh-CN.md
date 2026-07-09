@@ -35,7 +35,7 @@ updated: 2026-04-20
 ## 里面都有什么
 
 - **`summary_*.md`** — 每份源文档的章节级摘要（ISO 19650 的每一个 Part、越南的每一份 QĐ / Luật / NĐ / TT）。
-- **概念页** — `cde.md`、`eir.md`、`pim.md`、`loin.md`、`bep.md`、`lod-vn.md`，再加 ~30 个页。一页一个 topic，互相 cross-link。
+- **概念页** — `cde.md`、`eir.md`、`pim.md`、`loin.md`、`bep.md`、`lod-vn.md`，再加 ~13 个页。一页一个 topic，互相 cross-link。
 - **VN delta 页** — `lod-vn.md`、`bim-applicability-matrix-vn.md`、`bep-template-qd348-variants.md`：越南实践跟 ISO 不一样的地方，以及为什么不一样。
 - **`iso-19650.md`** — 系列的父页。
 - **`index.md`** — 总 catalog。

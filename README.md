@@ -35,7 +35,7 @@ This is that mapping, written down.
 ## What's inside
 
 - **`summary_*.md`** — chapter-level summaries of source documents (each ISO 19650 part, each Vietnamese circular).
-- **Concept pages** — `cde.md`, `eir.md`, `pim.md`, `loin.md`, `bep.md`, `lod-vn.md`, and ~30 more. One topic per page, cross-linked.
+- **Concept pages** — `cde.md`, `eir.md`, `pim.md`, `loin.md`, `bep.md`, `lod-vn.md`, and ~13 more. One topic per page, cross-linked.
 - **VN-specific deltas** — `lod-vn.md`, `bim-applicability-matrix-vn.md`, `bep-template-qd348-variants.md`: where Vietnamese practice differs from ISO, and why.
 - **`iso-19650.md`** — parent page for the series.
 - **`index.md`** — master catalog.

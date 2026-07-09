@@ -35,7 +35,7 @@ Cái repo này là cái mapping đó, được viết ra.
 ## Có gì bên trong
 
 - **`summary_*.md`** — summary cấp chương của từng source document (mỗi ISO 19650 part, mỗi QĐ/Luật/NĐ/TT của VN).
-- **Trang khái niệm** — `cde.md`, `eir.md`, `pim.md`, `loin.md`, `bep.md`, `lod-vn.md`, và ~30 trang nữa. Mỗi trang 1 topic, cross-link lẫn nhau.
+- **Trang khái niệm** — `cde.md`, `eir.md`, `pim.md`, `loin.md`, `bep.md`, `lod-vn.md`, và ~13 trang nữa. Mỗi trang 1 topic, cross-link lẫn nhau.
 - **Delta VN** — `lod-vn.md`, `bim-applicability-matrix-vn.md`, `bep-template-qd348-variants.md`: chỗ thực hành VN lệch với ISO, và lệch vì lý do gì.
 - **`iso-19650.md`** — trang cha của series.
 - **`index.md`** — catalog tổng.
