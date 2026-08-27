@@ -6,14 +6,20 @@ type: summary
 source: "[[raw/national-standards/VN/ND_175_2024_CP]]"
 status: draft
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-08-27
 ---
 
 # Nghị định 175/2024/NĐ-CP — Điều 8 áp dụng BIM
 
-> **TL;DR:** NĐ 175/2024 (Chính phủ, hiệu lực 30/12/2024) tại Điều 8 là văn bản pháp lý cấp cao nhất quy định chi tiết kỹ thuật BIM: áp dụng cho dự án nhóm B trở lên + công trình cấp II trở lên, định dạng IFC 4.0, mỗi tệp ≤ 500 MB, giao Bộ XD ban hành hướng dẫn.
+> **TL;DR:** NĐ 175/2024 Điều 8 (IFC 4.0, ≤500 MB, nhóm B × cấp II) **hết hiệu lực 01/07/2026**, bị NĐ 217/2026 thay. Giữ trang này cho hồ sơ lập trước mốc đó.
 
-## Nội dung tóm tắt
+## Hết hiệu lực
+
+`[VN-CP:web-verified]` Từ **01/07/2026**, NĐ 175/2024 hết hiệu lực theo Điều 75 NĐ 217/2026/NĐ-CP (Cổng TTĐT Chính phủ [docid=218509](https://vanban.chinhphu.vn/?pageid=27160&docid=218509)). Hồ sơ BIM lập khi NĐ 175 còn hiệu lực vẫn đúng với thời điểm lập — đối chiếu sang Điều 8 NĐ 217 khi kế thừa, không làm lại từ đầu `[COMMENTARY]`.
+
+**Không tìm thấy** thông tư Bộ Xây dựng thi hành Điều 8 khoản 6 NĐ 175 trong cửa sổ 2026-04-01 → 2026-08-27 (query: “Thông tư hướng dẫn Nghị định 175 Điều 8 BIM”, “hướng dẫn áp dụng BIM TT-BXD 2026”). Mâu thuẫn QĐ 258 vs NĐ 175 **không** được giải bằng một TT riêng; NĐ 175 bị thay nguyên văn bản. Xem [[summary_nd-217-2026]].
+
+## Nội dung tóm tắt (khi còn hiệu lực)
 
 ### 1. Đối tượng bắt buộc (khoản 1)
 
@@ -39,13 +45,14 @@ Khác với [[summary_qd-258-ttg]]: NĐ 175 không phân biệt theo **nguồn v
 
 ### 4. Phân công hướng dẫn (khoản 6)
 
-`[VN-CP:web-verified]` Bộ Xây dựng ban hành hướng dẫn áp dụng BIM. **Hiện tại (04/2026) chưa thấy TT hướng dẫn riêng cho Điều 8 được ban hành.**
+`[VN-CP:web-verified]` Bộ Xây dựng ban hành hướng dẫn áp dụng BIM. **Đến khi NĐ 175 hết hiệu lực (01/07/2026) không thấy TT hướng dẫn riêng cho Điều 8 khoản 6.** Khoản hướng dẫn chuyển sang NĐ 217 Điều 8 khoản 7 — xem [[summary_nd-217-2026]].
 
 ## Quan hệ
 
-- **Companion:** [[summary_qd-258-ttg]] (lộ trình bắt buộc, song song) — hai bộ tiêu chí áp dụng khác nhau, xem [[bim-applicability-matrix-vn]].
-- **Hierarchy:** Luật Xây dựng 50/2014 + 62/2020 → NĐ 175/2024 → (expected) TT hướng dẫn Bộ XD → [[summary_qd-347]], [[summary_qd-348]].
-- **Overlays on:** [[summary_tt-09-2024]] — quy định chi phí áp dụng BIM trong dự án thuộc phạm vi Điều 8.
+- **Replaced by:** [[summary_nd-217-2026]] (hiệu lực 01/07/2026).
+- **Companion (lịch sử):** [[summary_qd-258-ttg]] — hai bộ tiêu chí khi NĐ 175 còn hiệu lực; ma trận hiện hành: [[bim-applicability-matrix-vn]].
+- **Hierarchy (cũ):** Luật Xây dựng 50/2014 + 62/2020 → NĐ 175/2024. Từ 01/07/2026: [[summary_luat-135-2025]] → NĐ 217.
+- **Overlays on:** [[summary_tt-09-2024]] — chi phí BIM (còn hiệu lực riêng, không tự hết theo NĐ 175).
 
 ## Nguồn
 
