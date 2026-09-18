@@ -8,7 +8,7 @@ updated: 2026-04-20
 </p>
 
 <p align="center">
-  📖 <a href="README.md">English</a> · Tiếng Việt · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a>
+  <a href="README.md">English</a> · Tiếng Việt · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a>
 </p>
 
 ---
@@ -70,7 +70,13 @@ Mở issue để đề xuất trang mới hoặc báo lỗi. Với pull request 
 
 ---
 
-Thuộc family [bimwright](https://github.com/bimwright) —
+## bimwright
+
+Các công cụ mã nguồn mở kết nối trợ lý AI với ứng dụng BIM và CAD.
+
+Tên **bimwright** ghép **BIM** với **wright**, một từ tiếng Anh cổ chỉ người thợ chế tạo hoặc xây dựng — như trong *shipwright* (thợ đóng tàu).
+
+Thuộc nhóm dự án [bimwright](https://github.com/bimwright) —
 [rvt-mcp](https://github.com/bimwright/rvt-mcp) · [dwg-mcp](https://github.com/bimwright/dwg-mcp) · [nwd-mcp](https://github.com/bimwright/nwd-mcp) · [ipt-mcp](https://github.com/bimwright/ipt-mcp) · bim-wiki (repo này).
 
 ---

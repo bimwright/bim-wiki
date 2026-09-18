@@ -8,7 +8,7 @@ updated: 2026-04-20
 </p>
 
 <p align="center">
-  📖 <a href="README.md">English</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.zh-CN.md">简体中文</a> · 日本語
+  <a href="README.md">English</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.zh-CN.md">简体中文</a> · 日本語
 </p>
 
 ---
@@ -70,12 +70,18 @@ updated: 2026-04-20
 
 ---
 
-Part of the [bimwright](https://github.com/bimwright) family —
-[rvt-mcp](https://github.com/bimwright/rvt-mcp) · [dwg-mcp](https://github.com/bimwright/dwg-mcp) · [nwd-mcp](https://github.com/bimwright/nwd-mcp) · [ipt-mcp](https://github.com/bimwright/ipt-mcp) · bim-wiki (this repo).
+## bimwright
+
+AI アシスタントと BIM・CAD アプリケーションをつなぐオープンソースのツール。
+
+**bimwright** は **BIM** と **wright** を組み合わせた名前です。wright は、ものを作る人や建てる人を表す古い英語で、*shipwright*（船大工）などに使われます。
+
+[bimwright](https://github.com/bimwright) ファミリーのプロジェクトです。
+[rvt-mcp](https://github.com/bimwright/rvt-mcp) · [dwg-mcp](https://github.com/bimwright/dwg-mcp) · [nwd-mcp](https://github.com/bimwright/nwd-mcp) · [ipt-mcp](https://github.com/bimwright/ipt-mcp) · bim-wiki（このリポジトリ）。
 
 ---
 
 <p align="center">
-  A <a href="https://github.com/bimwright">bimwright</a> project —
+  <a href="https://github.com/bimwright">bimwright</a> のプロジェクト —
   <a href="https://github.com/bimwright"><img src="https://raw.githubusercontent.com/bimwright/.github/master/assets/logos/bimwright-logo.png" alt="bimwright" height="24" align="middle" /></a>
 </p>

@@ -8,7 +8,7 @@ updated: 2026-04-20
 </p>
 
 <p align="center">
-  📖 <a href="README.md">English</a> · <a href="README.vi.md">Tiếng Việt</a> · 简体中文 · <a href="README.ja.md">日本語</a>
+  <a href="README.md">English</a> · <a href="README.vi.md">Tiếng Việt</a> · 简体中文 · <a href="README.ja.md">日本語</a>
 </p>
 
 ---
@@ -69,6 +69,12 @@ updated: 2026-04-20
 开 issue 提新页面或者报错。PR 先看 [`NOTICE.md`](NOTICE.md)。核心规则：**paraphrase，不要 paste。** 从有版权的标准里逐字摘的东西会被 reject，哪怕 edit 是善意的、内容是对的。dual-tier 模式只有在 public tier 保持干净的时候才工作。
 
 ---
+
+## bimwright
+
+连接 AI 助手与 BIM、CAD 应用的开源工具。
+
+**bimwright** 这个名字由 **BIM** 和 **wright** 组成。wright 是英语中表示制作者或建造者的旧词，如 *shipwright*（造船工）。
 
 属于 [bimwright](https://github.com/bimwright) 家族 —
 [rvt-mcp](https://github.com/bimwright/rvt-mcp) · [dwg-mcp](https://github.com/bimwright/dwg-mcp) · [nwd-mcp](https://github.com/bimwright/nwd-mcp) · [ipt-mcp](https://github.com/bimwright/ipt-mcp) · bim-wiki（这个仓）。

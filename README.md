@@ -8,7 +8,7 @@ updated: 2026-04-20
 </p>
 
 <p align="center">
-  📖 English · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a>
+  English · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a>
 </p>
 
 ---
@@ -69,6 +69,12 @@ If you need normative ISO text, buy it from iso.org. This wiki is not a substitu
 Open an issue for a new page or a correction. For pull requests — see [`NOTICE.md`](NOTICE.md). Key rule: **paraphrase, don't paste.** Verbatim extracts from licensed standards get rejected, even if the edit is well-intended and the content is correct. The dual-tier model only works if the public tier stays clean.
 
 ---
+
+## bimwright
+
+Open-source tools connecting AI assistants to BIM and CAD applications.
+
+The name **bimwright** combines **BIM** with **wright**, an old word for a maker or builder—as in *shipwright*.
 
 Part of the [bimwright](https://github.com/bimwright) family —
 [rvt-mcp](https://github.com/bimwright/rvt-mcp) · [dwg-mcp](https://github.com/bimwright/dwg-mcp) · [nwd-mcp](https://github.com/bimwright/nwd-mcp) · [ipt-mcp](https://github.com/bimwright/ipt-mcp) · bim-wiki (this repo).
